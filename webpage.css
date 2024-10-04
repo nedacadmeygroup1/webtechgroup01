@@ -1,0 +1,46 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Montserrat", sans-serif;
+}
+
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+  }
+
+  .navbar a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: white;
+    padding: 15px;
+  }
+
+  .navbar a:hover{
+    background-color: rgb(83, 81, 81);
+
+  }
+
+ .navbar ul{
+    list-style-type: none;
+    color: white;
+    background-color: rgba(20, 20, 20, 0.986);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+ } 
+
+ .navbar li{
+    float: left;
+ }
+
+ 
+
+
+
+  
